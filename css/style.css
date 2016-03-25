@@ -1,0 +1,68 @@
+body{
+    max-width: 1024px;
+}
+header{
+    min-height: 100px;
+}
+.logo{
+    float: left;
+}
+.logo  img{
+    width: 100px;
+    height: 100px;
+    padding-right: 30px;
+}
+.slogan{
+    text-align: center;
+}
+.slogan h2{
+    font-size: 30px;
+}
+.menu{
+    text-align: center;
+    font-size: 20px;
+}
+.menu ul{
+    list-style-type: none;
+    display: inline-flex;
+}
+.menu li{
+    padding: 10px;
+
+}
+.menu li a{
+    text-decoration: none;
+    cursor: pointer;
+
+}
+.menu li a:hover{
+    text-decoration: underline;
+    cursor: pointer;
+}
+.cover-photo{
+    width: 100%;
+}
+.cover-photo img{
+    width: 100px;
+    height: 100px;
+    float: left;
+    padding-right: 30px;
+}
+.news {
+    padding-left: 20px;
+}
+.new > .title {
+    text-align: center;
+}
+.title > h3{
+    font-size: 25px;
+    text-align: center;
+}
+.cover-photo{
+    width: 100px;
+}
+.news-text{
+    padding: 10px;
+}
+
+
